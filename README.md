@@ -8,7 +8,9 @@ DAI worked with Maria to provide the following:
   * Budget and per student budget
   * Reading score
   * Math score
-  * Percent passing (overall and by subjects: math and English)
+  * Percent passing (overall and by subjects: math and reading)
+  * Size
+  * Type
 
 * Data Breakouts (7) to be presented by - these number references (i.e., i to vi) correspond to the results presented below:
      1. District Summary
