@@ -23,7 +23,7 @@ After working with Maria, it was discovered the Thomas High School ("THS) ninth 
 ## Results
 
 ### District Summary
-An analysis of the district data which includes the corrupted data set (see chart labeled below) and which excludes the corrupted data set (see chart below "excluding" THS 9th graders) shows there is a very modest decrease in the average math score by 1 tenth (i.e., the average math score 79.0 decreased to average math score 78.9).  However, there were very slight and overall no significant changes to the percent passing measurements.  At the district level, there are no material changes from excluding the corrupted data. 
+An analysis of the district data which includes the corrupted data set (see chart labeled below) and which excludes the corrupted data set (see chart below "excluding" THS 9th graders) shows there is a very modest decrease in the average math score by 1 tenth (i.e., the average math score 79.0 decreased to average math score 78.9).  However, there was a very slight decrease to the overall passing percent (65.2% for all students and 64.9% excluding THS 9th grader students).  At the district level, this change appears to be immaterial. 
 
 District Summary - "includes" all students
 ![2021-09-12 (9)](https://user-images.githubusercontent.com/35401581/132998862-b92b2fc4-8da0-4f89-968c-ffa5734cc051.png)
