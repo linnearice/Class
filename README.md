@@ -42,9 +42,22 @@ The chart below presents all schools within the district:
 
 ![School Summary without THS 9th](https://user-images.githubusercontent.com/35401581/132996552-abd2d2f7-be8c-4e75-a2bf-c955a03faf74.png)
 
- 
+### Math Scores Presented by High School
+Math scores excluding THS 9th graders is presented below.  The averages presented in this chart are exactly the same when comparing them with all THS students with the obvious excption of no averages (NaN) appearing for THS 9th graders (for math scores).
+
+![Math Scores excl  THS 9th (2)](https://user-images.githubusercontent.com/35401581/133001730-4bca6050-4d59-4c27-8d4a-60afe07de186.png)
+
+Reading scores excluding THS 9th graders is presented below.  The averages presented in this chart are exactly the same when comparing them with all THS students with the obvious excption of no averages (NaN) appearing for THS 9th graders (for reading scores).
+
 ### Reading Scores Presented by High School
+![Reading Scores excl THS 9th (2)](https://user-images.githubusercontent.com/35401581/133001732-fdbd125e-cbc0-4312-8c32-4bca8143334c.png)
+
 ### School Performance by Ranges of Spending Per Student 
+![Scores by Spending Bins excl  THS](https://user-images.githubusercontent.com/35401581/133002218-22099783-a389-4637-93c0-f4a7bade14fc.png)
+
 ### School Performance by Ranges of School Size
+![Scores by Size bins](https://user-images.githubusercontent.com/35401581/133002324-9739cd84-3c73-4345-b76c-f8b44e9f3a4b.png)
+
+
 ### School Performance by School Type
 
