@@ -37,7 +37,8 @@ By school, it is interesting that again there is no material change in THS math 
 
 
 The chart below compares only THS data presented with the first line showing all THS students the second line of data excluding its 9th graders:
-![THS per school summary](https://user-images.githubusercontent.com/35401581/132996508-c40a678c-6d2f-4930-8fa4-dd696c8a115d.png)
+![2021-09-12 (10)](https://user-images.githubusercontent.com/35401581/133000167-2d796997-7b01-458b-98ea-c66cc072e539.png)
+
 
 
 The chart below presents all schools within the district:
