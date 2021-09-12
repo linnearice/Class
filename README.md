@@ -33,13 +33,10 @@ District Summary – “excludes” THS Ninth Graders:
 ![Distsrict Summary excl THS](https://user-images.githubusercontent.com/35401581/132996591-6c2205fe-6a9d-4c47-a224-831c2fdc626f.png)
 
 ### Per School Summary
-By school, it is interesting that again there is no material change in THS math and reading average scores for all students versus excluding 9th graders.  That is not the case though with the passing percentages.  These data points saw a distint increase in passing percentages. For example, the overall passing percentage increased from 64.9% (includes all THS studetns) to 90.6% (excludes 9th grade THS students).  Evaluating these changes changes the landscape of THS's performance to a high performing school. 
-
+By school, it is interesting that again there is no material change in THS math and reading average scores for all students versus excluding 9th graders.  It appears there was a slight decrease in the percent passing reading (a 0.3% decrease) when excluding THS ninth graders. The same holds true for the overall passing percent - a 0.3% decrease when excluding THS ninth graders.  In general terms, there was a very, very slight performance dip in the reading scores.
 
 The chart below compares only THS data presented with the first line showing all THS students the second line of data excluding its 9th graders:
 ![2021-09-12 (10)](https://user-images.githubusercontent.com/35401581/133000167-2d796997-7b01-458b-98ea-c66cc072e539.png)
-
-
 
 The chart below presents all schools within the district:
 
