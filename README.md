@@ -46,6 +46,12 @@ The chart below presents all schools within the district:
 
 ### iii.  Schools Top 5 Performing and Low 5 Performing
 
+![Top Performing School](https://user-images.githubusercontent.com/35401581/133003488-526f1736-8970-4509-b47f-35e578acff38.png)
+
+
+![Low Performing School](https://user-images.githubusercontent.com/35401581/133003473-dfde2352-64ec-40c1-897e-161f73511848.png)
+
+
 
 ### iv.  Math and Reading Scores Presented by High School
 Math scores excluding THS 9th graders is presented below.  The averages presented in this chart are exactly the same when comparing them with all THS students with the obvious excption of no averages (NaN) appearing for THS 9th graders (for math scores).
