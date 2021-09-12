@@ -10,7 +10,7 @@ DAI worked with Maria to provide the following:
   * Math score
   * Percent passing (overall and by subjects: math and English)
 
-* Data Breakouts (7) to be presented by - these number references (e.i. i to vi) correspond to the summary below:
+* Data Breakouts (7) to be presented by - these number references (i.e., i to vi) correspond to the results presented below:
      1. District Summary
      2. Per School Summary
      3. High and Low Performing Schools
