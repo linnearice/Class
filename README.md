@@ -1,3 +1,4 @@
+
 # District School Performance Analysis
 ## Overview of Project
 Our company Data Analysts, Inc. (“DAI”) has worked with Maria, a school district superintendent, to deliver an analysis model the District can use to determine individual school performance and budget implementation.
@@ -22,12 +23,17 @@ After working with Maria, it was discovered the Thomas High School ninth grade s
 ## Analysis
 ###District Summary
 
+![District Summary WITH THS](https://user-images.githubusercontent.com/35401581/132996579-fe95ca35-85b6-4fb7-958c-58fc9a6a9db2.png)
 
- 
 District Summary – “excludes” Thomas High School Ninth Graders:
-![School Summary without THS 9th](https://user-images.githubusercontent.com/35401581/132996163-883da539-b51b-48af-8241-c108631ce60a.png)
- 
+![Distsrict Summary excl THS](https://user-images.githubusercontent.com/35401581/132996591-6c2205fe-6a9d-4c47-a224-831c2fdc626f.png)
+
 ###Per School Summary
+![THS per school summary](https://user-images.githubusercontent.com/35401581/132996508-c40a678c-6d2f-4930-8fa4-dd696c8a115d.png)
+
+![School Summary without THS 9th](https://user-images.githubusercontent.com/35401581/132996552-abd2d2f7-be8c-4e75-a2bf-c955a03faf74.png)
+
+
 
 
 School	
