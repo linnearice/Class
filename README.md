@@ -45,11 +45,14 @@ The chart below presents all schools within the district:
 ### Math Scores Presented by High School
 Math scores excluding THS 9th graders is presented below.  The averages presented in this chart are exactly the same when comparing them with all THS students with the obvious excption of no averages (NaN) appearing for THS 9th graders (for math scores).
 
+Math Scores by High School (excluding THS 9th graders)
 ![Math Scores excl  THS 9th (2)](https://user-images.githubusercontent.com/35401581/133001730-4bca6050-4d59-4c27-8d4a-60afe07de186.png)
 
-Reading scores excluding THS 9th graders is presented below.  The averages presented in this chart are exactly the same when comparing them with all THS students with the obvious excption of no averages (NaN) appearing for THS 9th graders (for reading scores).
 
 ### Reading Scores Presented by High School
+Reading scores excluding THS 9th graders is presented below.  The averages presented in this chart are exactly the same when comparing them with all THS students with the obvious excption of no averages (NaN) appearing for THS 9th graders (for reading scores).
+
+Reading Scores by High School (excluding THS 9th graders)
 ![Reading Scores excl THS 9th (2)](https://user-images.githubusercontent.com/35401581/133001732-fdbd125e-cbc0-4312-8c32-4bca8143334c.png)
 
 ### School Performance by Ranges of Spending Per Student 
@@ -60,4 +63,5 @@ Reading scores excluding THS 9th graders is presented below.  The averages prese
 
 
 ### School Performance by School Type
+![Scores by Type Sort (2)](https://user-images.githubusercontent.com/35401581/133002384-9c63f3dc-ce29-4187-8e33-a8eabc6ce17e.png)
 
