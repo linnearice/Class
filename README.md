@@ -21,9 +21,11 @@ i.	School Performance by School Type
 After working with Maria, it was discovered the Thomas High School ninth grade student grades were corrupted.  Therefore, the above analysis was refactored to exclude the Thomas High School ninth grade math and reading scores from the results.  Thus, some of the focus of this study was to see how this change affected the outcomes once the grades were extracted.
 ## Analysis
 ###District Summary
-District Summary – includes Thomas High School Ninth Graders:
+
+
  
 District Summary – “excludes” Thomas High School Ninth Graders:
+![School Summary without THS 9th](https://user-images.githubusercontent.com/35401581/132996163-883da539-b51b-48af-8241-c108631ce60a.png)
  
 ###Per School Summary
 
