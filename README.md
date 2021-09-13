@@ -84,4 +84,10 @@ School Performance by School Type:
 ![Scores by Type Sort (2)](https://user-images.githubusercontent.com/35401581/133002384-9c63f3dc-ce29-4187-8e33-a8eabc6ce17e.png)
 
 ## Summary
+The most noticeable changes by excluding the THS 9th graders from the analysis are as follows:
+* 1 - At the district level there was a decrease in the overall passing percent from 65.2% to 64.9%
+* 2 - Also at the district level the math scores decreased slightly from 79.0 to 78.9
+* 3 - Also at the district level the percent passing math slightly decreased from 75.0% to 74.8% 
+* 4 - At the school level for THS there was a decrease in the THS % passing reading from 97.3% to 97%
+* 5 - Also at the school level, the % overall passing decreased close to the same amount from 90.9% to 90.6%
 
