@@ -25,7 +25,7 @@ After working with Maria, it was discovered the Thomas High School ("THS) ninth 
 ## Results
 
 ### i.  District Summary
-An analysis of the district data which includes the corrupted data set (see chart labeled below) and which excludes the corrupted data set (see chart below "excluding" THS 9th graders) shows there is a very modest decrease in the average math score by 1 tenth (i.e., the average math score 79.0 decreased to average math score 78.9).  There was also a very slight decrease to the overall passing percent (65.2% for all students and 64.9% excluding THS 9th grader students).  At the district level, this change to exclue THS 9th graders appears to be immaterial. 
+An analysis of the district data which includes the corrupted data set (see chart labeled below) and which excludes the corrupted data set (see chart below "excluding" THS 9th graders) shows there is a very modest decrease in the average math score by 1 tenth (i.e., the average math score 79.0 decreased to average math score 78.9).  At the district level, this change to exclue THS 9th graders appears to be immaterial. 
 
 District Summary - "includes" all students
 ![2021-09-12 (9)](https://user-images.githubusercontent.com/35401581/132998862-b92b2fc4-8da0-4f89-968c-ffa5734cc051.png)
@@ -85,9 +85,9 @@ School Performance by School Type:
 
 ## Summary
 The most noticeable changes by excluding the THS 9th graders from the analysis are as follows:
-* 1 - At the district level there was a decrease in the overall passing percent from 65.2% to 64.9%
-* 2 - Also at the district level the math scores decreased slightly from 79.0 to 78.9
-* 3 - Also at the district level the percent passing math slightly decreased from 75.0% to 74.8% 
-* 4 - At the school level for THS there was a decrease in the THS % passing reading from 97.3% to 97%
-* 5 - Also at the school level, the % overall passing decreased close to the same amount from 90.9% to 90.6%
+* 1 - At the district level the math scores decreased slightly from 79.0 to 78.9
+* 3 - At the school level for THS there was a decrease in the THS % passing reading from 97.3% to 97%
+* 3 - Also at the school level, the % overall passing decreased close to the same amount from 90.9% to 90.6%
+* 4 - Although there were some slight changes in THS performance per school, as noted above, it wasn't enough to change it's ranking as #2 performing school in the District.
+
 
